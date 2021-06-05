@@ -78,51 +78,27 @@ Results with detail analysis:
 
 2. The total number of drivers for each city type is retrieved.
 
-Image with Jupyter Notebook & Python Code below.
-
-Code and Image
-
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879573-041b7880-c58a-11eb-8959-bbb2b49a3f8f.PNG)
 
 3. The sum of the fares for each city type is retrieved.
 
-Image with Jupyter Notebook & Python Code below.
-
-Code and Image
-
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879587-21504700-c58a-11eb-94ac-a410963afe58.PNG)
 
 4. The average fare per ride for each city type is calculated.
 
-Image with Jupyter Notebook & Python Code below.
-
-Code and Image
-
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879602-3c22bb80-c58a-11eb-9b0c-7564980fec35.PNG)
 
 5. The average fare per driver for each city type is calculated.
 
-Image with Jupyter Notebook & Python Code below.
-
-Code and Image
-
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879622-61172e80-c58a-11eb-8af4-324b68d2110e.PNG)
 
 6. A PyBer summary DataFrame is created.
 
-Image with Jupyter Notebook & Python Code below.
-
-Code and Image
-
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879647-8ad05580-c58a-11eb-834b-1c2ac90f46e8.PNG)
 
 7. The PyBer summary DataFrame is formatted as shown in the example.
 
-Image with Jupyter Notebook & Python Code below.
-
-Code and Image
-
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879673-b2272280-c58a-11eb-91a0-273f4cf728ef.PNG)
 
 Deliverable 2: A multiple-line chart of total fares for each city type
 Deliverable Requirements:
@@ -134,19 +110,11 @@ An annotated chart showing the total fares by city type is created and saved to 
 Results with detail analysis:
 1. A DataFrame was created using the groupby() function on the "type" and "date" columns, and the sum() method is applied on the "fare" column to show the total fare amount for each date and time.
 
-Image with Jupyter Notebook & Python Code below.
-
-Code and Image
-
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879720-fb777200-c58a-11eb-99fd-ad3575a4a8aa.PNG)
 
 2. A DataFrame was created using the pivot() function where the index is the "date," the columns are the city "type," and the values are the "fare."
 
-Image with Jupyter Notebook & Python Code below.
-
-Code and Image
-
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879738-1ea22180-c58b-11eb-84bc-3dd4065862a7.PNG)
 
 3. A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-29.
 
