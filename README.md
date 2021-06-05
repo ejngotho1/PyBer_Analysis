@@ -40,23 +40,9 @@ Check the Version in Jupyter Notebook Alternatively, you can check the version o
 
 To start Jupyter Notebook, navigate to the Class folder on your computer using the command line or Anaconda prompt.
 
-Activate the PythonData environment if it's not activated. Type and run jupyter notebook.
-
-From Anaconda Terminal:
-
-name-of-you-image
-
-From Jupyter Notebook Data:
-
-name-of-you-image
-
-For more information about the latest Matplotlib version, see the Matplotlib documentation Links to an external site..
-
 Matplot over Jupyter Note: Here a Simple Example how it looks a Matplotlib.pyplot chart:
 
-Code and Graph
-
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879452-10530600-c589-11eb-9774-a8090fb109b0.PNG)e
 
 Annotate Charts Using the MATLAB Method Here are a few methods that you can use to annotate charts using the MATLAB method:
 
@@ -64,15 +50,17 @@ It is highly recommended to add x-axis and y-axis labels and a title to every gr
 
 Matplotlib Functions and Feature
 
-name-of-you-image
-
-Extra Note: Create a Vertical Bar Chart
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879500-5ad48280-c589-11eb-9ea9-3cec1f9bf607.PNG)
 
 To create a bar chart using the object-oriented interface method, use the ax.bar() function and add the x and y data parameters inside the parentheses.
 
 Matplotlib Functions and Feature
 
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879515-7dff3200-c589-11eb-963a-39a399b6b27b.PNG)
+
+### Running this code
+
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879536-a5ee9580-c589-11eb-91da-d9b00b2dd098.PNG)
 
 Deliverable 1: A Ride-Sharing Summary DataFrame by City Type
 Deliverable Requirements:
@@ -86,11 +74,7 @@ The PyBer summary DataFrame is formatted as shown in the example.
 Results with detail analysis:
 1. The total number of rides for each city type is retrieved.
 
-Image with Jupyter Notebook & Python Code below.
-
-Code and Image
-
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879554-d2a2ad00-c589-11eb-83d8-2d6b03b5c6de.PNG)
 
 2. The total number of drivers for each city type is retrieved.
 
