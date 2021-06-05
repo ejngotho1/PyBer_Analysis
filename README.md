@@ -118,27 +118,15 @@ Results with detail analysis:
 
 3. A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-29.
 
-Image with Jupyter Notebook & Python Code below.
-
-Code and Image
-
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879768-4f825680-c58b-11eb-88bf-c5dc7964f8aa.PNG)
 
 4. A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week.
 
-Image with Jupyter Notebook & Python Code below.
-
-Code and Image
-
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879788-7771ba00-c58b-11eb-8f09-8d31f502ef1c.PNG)
 
 5. An annotated chart showing the total fares by city type is created and saved to the "analysis" folder.
 
-Image with Jupyter Notebook & Python Code below.
-
-Code and Image
-
-name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879813-a8ea8580-c58b-11eb-9ab8-0bd2aab18878.PNG)
 
 Deliverable 3: A written report for the PyBer Analysis
 The analysis should contain the following:
@@ -153,23 +141,32 @@ Using images from the summary DataFrame and multiple-line chart, describe the di
 The Suburban fares started around $1,000, and the analysis was not profitable, fare dropped in March and in mid-April.
 The Rural fares started at around $200, the analysis shows fares increase and dropped till the end of April.
 The Urban fares start with an average of $1,800 with a consistent increase around 2,300.
-The PyBer summary DataFrame, name-of-you-image
+The PyBer summary DataFrame
 
-A multiple-line chart of total fares for each city type, name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879839-de8f6e80-c58b-11eb-9456-5a35ea708cb5.PNG)
 
-PyBer Ride-Sharing Data (2019), name-of-you-image
+A multiple-line chart of total fares for each city type
+
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879871-21e9dd00-c58c-11eb-9223-64c6280e98d3.PNG)
+
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879905-52ca1200-c58c-11eb-873c-25dab7331404.PNG)
 
 Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types:
 
 1) From our analysis, we can predict that there are good opportunities to expand the business in rural and suburban cities, including hiring drivers to operate and explode business in rural and suburban cities.
 
-% of Total Drivers by City Type, name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879948-ac324100-c58c-11eb-84a9-561be043e2ca.PNG)
+
 
 2) The Urban cities fare is the highest and consistent, giving us great and new business opportunities to expand rides.
 
-% of Total Fares by City Type, name-of-you-image
+
+
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879968-cc620000-c58c-11eb-91a5-bafedc4cc886.PNG)
+
+
 
 3) The Rural cities fare is the lowest of the other two city types (Urban and Suburban cities), in addition, fares never intersect. Knowing that all fares never intersect, we can expand fares and increase business financial income to the company without affecting our rate.
 
-Total Fare by City Type, name-of-you-image
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879997-029f7f80-c58d-11eb-9533-f7aade916ad9.PNG)
