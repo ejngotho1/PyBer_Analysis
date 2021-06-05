@@ -24,15 +24,7 @@ Check the Version on the Command Line in macOS or Windows To begin, launch the c
 
 To activate the PythonData environment on the command line, type conda activate PythonData.
 
-macOS look similar to this:
-
-name-of-you-image
-
-Windows look similar to this:
-
-name-of-you-image
-
-At the Python prompt ( >>>), type import matplotlib and press Enter to import Matplotlib.
+![image](https://user-images.githubusercontent.com/57301554/120879203-59a25600-c587-11eb-92a5-c3bfd524f6bc.png)
 
 Next, to check the version of Matplotlib, type matplotlib.__version__ (there are two underscores before and after "version") and press Enter The output should be 3.1.0 or greater.
 
