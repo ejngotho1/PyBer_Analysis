@@ -28,6 +28,8 @@ To activate the PythonData environment on the command line, type conda activate 
 
 Next, to check the version of Matplotlib, type matplotlib.__version__ (there are two underscores before and after "version") and press Enter The output should be 3.1.0 or greater.
 
+![pic4-1](https://user-images.githubusercontent.com/57301554/120879404-b3575000-c588-11eb-8f7f-d5a75eda6fc7.PNG)
+
 Extra Note:
 
 To update Matplotlib for your development environment; with your PythonData environment activated, type conda install -c conda-forge matplotlib at the command prompt and press Enter.
